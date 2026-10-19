@@ -1,0 +1,51 @@
+date,category,amount_etb,payment_method,description
+2026-09-01,Food & Groceries,850.0,Cash,Weekly groceries
+2026-09-02,Transportation,120.0,Mobile Money,Taxi fare
+2026-09-03,Utilities,650.0,Bank Transfer,Electricity bill
+2026-09-04,Dining & Coffee,240.0,Mobile Money,Lunch with a friend
+2026-09-05,Health,180.0,Cash,Pharmacy purchase
+2026-09-06,Personal Care,320.0,Mobile Money,Haircut and toiletries
+2026-09-07, entertainment ,150.0,Cash,Movie ticket
+2026-09-08,Transportation,90.0,Mobile Money,Bus fare
+2026-09-09,Food & Groceries,460.0,Bank Transfer,Fruit and vegetables
+2026-09-10,Education,500.0,Mobile Money,Online course fee
+2026-09-11,Housing,4200.0,Bank Transfer,Monthly rent contribution
+2026-09-12,Dining & Coffee,195.0,Cash,Coffee and snack
+2026-09-13,Shopping,780.0,Mobile Money,Clothing
+2026-09-14,Utilities,300.0,Mobile Money,Internet package
+2026-09-15,Transportation,210.0,Cash,Ride home
+2026-09-16,Food & Groceries,620.0,Mobile Money,Market shopping
+2026-09-17,Health,350.0,Bank Transfer,Clinic visit
+2026-09-18,Family & Gifts,400.0,Cash,Birthday gift
+2026-09-19,,275.0,Mobile Money,Concert ticket
+2026-09-20,Savings,1000.0,Bank Transfer,Monthly savings deposit
+2026-09-21,Transportation,130.0,Mobile Money,Taxi fare
+2026-09-22,Food & Groceries,540.0,Cash,Groceries top-up
+2026-09-23,Dining & Coffee,310.0,Mobile Money,Dinner out
+2026-09-24,Shopping,950.0,Bank Transfer,Household items
+2026-09-25,Utilities,420.0,Mobile Money,Water bill
+2026-09-26,Education,not recorded,Cash,Notebook and pens
+2026-09-27,Transportation,160.0,Mobile Money,Bus and taxi fares
+2026-09-28,Food & Groceries,710.0,Bank Transfer,Monthly food shop
+2026-09-29,Personal Care,260.0,Cash,Skincare items
+2026-09-30,Dining & Coffee,185.0,Mobile Money,Coffee with classmates
+2026-10-01,Food & Groceries,890.0,Mobile Money,Groceries
+2026-10-02,Transportation,140.0,Cash,Taxi fare
+2026-10-03,Utilities,650.0,Bank Transfer,Electricity bill
+2026-10-04,Dining & Coffee,260.0,Mobile Money,Lunch
+2026-10-05,Health,210.0,Cash,Pharmacy purchase
+2026-10-06,Shopping,630.0,Mobile Money,Shoes
+2026-10-07,Food & Groceries,480.0,Bank Transfer,Vegetables and grains
+2026-10-08,Transportation,110.0,Mobile Money,Bus fare
+2026-10-09,Education,350.0,Bank Transfer,Study materials
+2026-10-10,Family & Gifts,300.0,Cash,Family contribution
+2026-10-11,Entertainment,190.0,Mobile Money,Streaming subscription
+2026-10-12,Housing,4200.0,Bank Transfer,Rent contribution
+2026-10-13,Food & Groceries,590.0,Cash,Market shopping
+2026-10-14,Dining & Coffee,230.0,Mobile Money,Coffee and snack
+2026-10-15,Transportation,170.0,Mobile Money,Taxi fare
+2026-10-16,Utilities,300.0,Bank Transfer,Internet package
+2026-10-17,Personal Care,290.0,Cash,Personal care items
+2026-10-18,Food & Groceries,670.0,Mobile Money,Weekly groceries
+2026-10-19,Dining & Coffee,205.0,Cash,Lunch
+2026-09-11,Housing,4200.0,Bank Transfer,Monthly rent contribution

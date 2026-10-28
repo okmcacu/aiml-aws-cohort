@@ -63,10 +63,18 @@ The CPR FAQ ("How do I perform CPR on an adult?") is in the data but did not app
 The distances are close together and none is low, so this is a weak result. See the limitations below.
 
 **"I twisted my foot playing football and it is swollen"**
-(paste your top 3 here)
+1. (0.950) How do I treat a sprained ankle? (chunk 2)
+2. (1.057) How do I treat a sprained ankle? (chunk 1)
+3. (1.429) What is the first aid for a burn?
+
+The right FAQ ranks first, but rank 3 is unrelated (weak match).
 
 **"I keep vomiting and have stomach cramps after eating"**
-(paste your top 3 here)
+1. (0.966) What should I do for food poisoning? (chunk 1)
+2. (1.091) What should I do for food poisoning? (chunk 2)
+3. (1.378) How do I treat diarrhea at home?
+
+The right FAQ ranks first and second; rank 3 is related but weaker.
 
 ## Limitations
 

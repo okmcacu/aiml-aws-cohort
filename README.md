@@ -8,8 +8,8 @@ My work for the **AWS Student Builder Group (AASTU) – AI/ML Track, Cohort 1** 
 
 | Week | Project | Description |
 |------|---------|-------------|
-| 1 | [Personal Expense Analyzer](./ML-Week1/personal_expense_Analyzer) | Analyzes personal expenses |
-| 2 | [Medical FAQ Semantic Search](./ML-Week2/semantic-search-lab) | Returns the closest chunks for a medical question. |
+| 1 | [Personal Expense Analyzer](ML-WEEK1/personal_expense_analyzer) | Analyzes personal expenses |
+| 2 | [Medical FAQ Semantic Search](ML-WEEK2/semantic-search-lab) | Returns the closest chunks for a medical question. |
 
 ---
 
